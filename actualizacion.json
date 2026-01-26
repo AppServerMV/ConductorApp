@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
-  "version_code": 9,  // ← DEBE SER 9 o MAYOR
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.0.0/app-release.apk",
-  "changelog": "...",
+  "version": "2.1.2",
+  "version_code": 12,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.2/app-release.apk",
+  "changelog": "📍 Actualización en mapa y mejoras de rendimiento.",
   "critical": false,
-  "file_size": 12500000
+  "file_size": 13200000
 }
