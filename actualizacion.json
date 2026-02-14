@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
-  "version_code": 13,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.3/app-release.apk",
-  "changelog": "📍 Actualización en mapa y mejoras de rendimiento.",
+  "version": "2.1.4",
+  "version_code": 14,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.4/app-release.apk",
+  "changelog": "📍 Mapa optimizado, mejoras visuales en perfil y mayor estabilidad.",
   "critical": false,
   "file_size": 13200000
 }
