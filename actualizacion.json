@@ -1,8 +1,8 @@
 {
-  "version": "2.1.6",
-  "version_code": 16,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.6/app-release.apk",
-  "changelog": "Mejoras en resumen de pagos: confirmación de resumen, subida de boletas (imagen/PDF), visualización de comprobantes, y optimización de almacenamiento",
+  "version": "2.1.7",
+  "version_code": 17,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.7/app-release.apk",
+  "changelog": "Solución en la carga de evidencia para paquetes reprogramados y cancelados",
   "critical": false,
   "file_size": 13500000
 }
