@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7",
-  "version_code": 17,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.7/app-release.apk",
-  "changelog": "Solución en la carga de evidencia para paquetes reprogramados y cancelados",
+  "version": "2.1.8",
+  "version_code": 18,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.8/app-release.apk",
+  "changelog": "CONDUCTOR: Bloqueo en retirados bodega con reintentos, solo botones +/-\nEMPRESA: Nuevo resumen semanal, clasificación simplificada, interfaz mejorada",
   "critical": false,
-  "file_size": 13500000
+  "file_size": 13800000
 }
