@@ -1,8 +1,8 @@
 {
-  "version": "2.1.8",
-  "version_code": 18,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.8/app-release.apk",
-  "changelog": "CONDUCTOR: Bloqueo en retirados bodega con reintentos, solo botones +/-\nEMPRESA: Nuevo resumen semanal, clasificación simplificada, interfaz mejorada",
+  "version": "2.1.9",
+  "version_code": 19,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.9/app-release.apk",
+  "changelog": "CONDUCTOR: Mejora en calidad de subida de boletas y evidencias, optimización de compresión de imágenes, correcciones menores\nEMPRESA: Correcciones y mejoras en resúmenes de pago",
   "critical": false,
   "file_size": 13800000
 }
