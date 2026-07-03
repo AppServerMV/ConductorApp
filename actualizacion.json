@@ -1,8 +1,8 @@
 {
-  "version": "2.1.9",
-  "version_code": 19,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.1.9/app-release.apk",
-  "changelog": "CONDUCTOR: Mejora en calidad de subida de boletas y evidencias, optimización de compresión de imágenes, correcciones menores\nEMPRESA: Correcciones y mejoras en resúmenes de pago",
+  "version": "2.2.0",
+  "version_code": 20,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.0/app-release.apk",
+  "changelog": "Conductores: nuevo botón Confirmar Todas para confirmar colectas asignadas de forma masiva",
   "critical": false,
-  "file_size": 13800000
+  "file_size": 14200000
 }
