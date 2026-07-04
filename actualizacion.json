@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "version_code": 20,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.0/app-release.apk",
-  "changelog": "Conductores: nuevo botón Confirmar Todas para confirmar colectas asignadas de forma masiva",
+  "version": "2.2.1",
+  "version_code": 21,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.1/app-release.apk",
+  "changelog": "Mejora en la subida de boleta de honorarios: calidad HD (1600px, 92% de compresión) y visualización optimizada",
   "critical": false,
   "file_size": 14200000
 }
