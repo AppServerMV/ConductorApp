@@ -1,7 +1,7 @@
 {
-  "version": "2.2.4",
-  "version_code": 24,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.4/app-release.apk",
+  "version": "2.2.3",
+  "version_code": 23,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.3/app-release.apk",
   "changelog": "Actualización que optimiza el rendimiento general de la app y mejora la experiencia de usuario con una interfaz más fluida, moderna e intuitiva.",
   "critical": false,
   "file_size": 14200000
