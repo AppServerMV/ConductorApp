@@ -1,7 +1,7 @@
 {
-  "version": "2.2.9",
-  "version_code": 29,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.9/app-release.apk",
+  "version": "2.2.10",
+  "version_code": 30,
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.10/app-release.apk",
   "changelog": "Se añadieron funciones nuevas.",
   "critical": false,
   "file_size": 14200000
