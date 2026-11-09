@@ -1,6 +1,6 @@
 {
-  "version": "2.2.12",
-  "version_code": 32,
+  "version": "2.2.13",
+  "version_code": 33,
   "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.12/app-release.apk",
   "changelog": "Notificaiones configurables.",
   "critical": false,
