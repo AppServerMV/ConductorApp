@@ -1,7 +1,7 @@
 {
   "version": "2.2.13",
   "version_code": 33,
-  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.12/app-release.apk",
+  "download_url": "https://github.com/AppServerMV/ConductorApp/releases/download/v2.2.13/app-release.apk",
   "changelog": "Notificaiones configurables.",
   "critical": false,
   "file_size": 14200000
